@@ -12,7 +12,7 @@ Code Review Rubric
     + Selects correct data structures
     + Select correct built-in functions
     + Uses packages appropriately 
-    + No unnecessarly repeated work 
+    + No unnecessarily repeated work 
     + No unnecessary hard coding
     + Can scale well with potentially large inputs
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -28,5 +28,5 @@ Code Review Rubric
     + All functions have a docstring
     + Each line has a comment
     + All documentation are meaningful and complete thoughts
-    + All documentation are formatted correctly
+    + All documentation is formatted consistent with style guidelines
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

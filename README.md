@@ -28,15 +28,15 @@ __Location__: Zoom (see link in course calendar, Canvas, or in Slack)
 
 __Sections__:
 
-1. Mondays*  and Wednesday* from  1:00p -  1:50p (PDT)
-2. Mondays*  and Wednesday* from  2:00p -  2:50p (PDT)
-3. Mondays*  and Wednesday* from  4:00p -  4:50p (PDT)
-4. Mondays*  and Wednesday* from  7:00p -  7:50p (PDT)
-5. Tuesdays* and Thursdays* from 10:00a - 10:50a (PDT)
+1 - Mondays*  and Wednesday* from  1:00p -  1:50p (PDT)   
+2 - Mondays*  and Wednesday* from  2:00p -  2:50p (PDT)  
+3 -Mondays*  and Wednesday* from  4:00p -  4:50p (PDT)  
+5a - Mondays*  and Wednesday* from  7:00p -  7:50p (PDT)  
+5b -Tuesdays* and Thursdays* from 10:00a - 10:50a (PDT)  
 
-\* Except first week. Due to orientation, each class will be shifted one day forward (e.g., Monday -> Tuesday)
+\* Except first week. Due to orientation, each class will be shifted one day forward (e.g., Monday ⇨ Tuesday)
 
-Anyone enrolled in the MSDS program can audit the course. You do __not__ need my permission or notify me if you want to audit. Just show up! I plan to record my lectures and make all materials available to all students. All the course materials are autograded so you can try the exercises and see where you stand.
+Anyone enrolled in the MSDS program can audit the course. You do __not__ need my permission or notify me if you want to audit. Just show up! All course materials are in GitHub. Canvas is only for grading thus available only to enrolled students. All the course materials are autograded so you can try the exercises and see where you stand.
 
 Prerequisites
 ----
@@ -52,60 +52,59 @@ By the end of the course, you should be able to:
 1. Define common programming terms in your own words.
 1. Fluently use the Python console, Jupyter Notebook environment, and Python scripts to write, test, and debug Python code.
 1. Read and use programming language documentation.
-1. Use Unix command line, git, and GitHub.
+1. Use the fundamental features of the Unix command line, git, and GitHub.
 
 ----
 Course Schedule and Topics (Tentative)
 ----
 
-01. 08/18 Tuesday
-    - Welcome / Overview
+01. 08/18 Tuesday / Wednesday
+    - Welcome 
+    - Overview of course
     - Introduction to Python
-02. 08/20 Thursday
+02. 08/20 Thursday / Friday
     - Variables
     - Numeric Types
     - Strings
-03. 08/24 Monday
+03. 08/24 Monday / Tuesday
     - Comparison Operators: ==, !=, is
     - Control Statements: if, elif, else
 04. 08/26 Wednesday
     - Looping: for, while
     - Booleans: and, or, not
-05. 08/31 Monday
+05. 08/31 Monday / Tuesday
     - User defined functions
     - Standard Library
     - Keyword arguments
-06. 09/02 Wednesday
+06. 09/02 Wednesday / Thursday
     - Methods
     - Scope rules
     - Recursion
-07. 09/07 Monday
+07. 09/07 Monday / Tuesday
     - Lists
     - Tuples
     - Slicing
-08. 09/09 Wednesday
+08. 09/09  Wednesday / Thursday
     - List methods
     - List comprehensions
-09. 09/14 Monday
+09. 09/14 Monday / Tuesday
     - Generator expressions
     - Filter, map, and reduce
-10. 09/16 Wednesday
+10. 09/16  Wednesday / Thursday
     - Dictionaries
     - Sets
-11. 09/21 Monday
-    - strings
-    - string formatting
-12. 09/23 Wednesday
-    - files
-    - json
-    - pickle
-13. 09/28 Monday
+11. 09/21 Monday / Tuesday
+    - Strings
+    - String formatting
+12. 09/23  Wednesday / Thursday
+    - File handling
+13. 09/28 Monday / Tuesday
     - User defined classes
 14. 09/30 Wednesday 
     - Command line
-15. 10/05 Monday
+15. 10/05 Monday / Tuesday
     - git / GitHub
-16. 10/07 Wednesday
+16. 10/07 Wednesday / Thursday
     - Amazon Web Services (AWS)
 
 Topics Not Covered

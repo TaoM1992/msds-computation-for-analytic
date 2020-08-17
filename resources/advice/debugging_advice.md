@@ -30,3 +30,7 @@ If you have problems, follow these steps:
 1. If your code is at least running and doing something, then insert print statements to figure out what the variables are and how far into the program you get before a craps out. That often tells you what the problem is.
 
 1. Definitely try to solve the problem yourself, but don't waste too much time (~15 minutes should be the max). I can typically help you out quickly so you can move forward.
+
+[Source](https://github.com/parrt/msds501/blob/master/projects/images.pdf)
+
+[Terence Parr's The Essentials Of Debugging](https://blog.parr.us/2014/11/17/the-essentials-of-debugging/)

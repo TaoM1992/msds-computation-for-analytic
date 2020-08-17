@@ -3,10 +3,8 @@ Steps to run software for class
 
 1. Open GitHub Desktop. Click "Fetch origin" to get any changes. You should do this at the start of each working session. You might have do in middle of class also.
 1. Start Anaconda Navigator
-1. Select `py38` environment
 1. Launch JupyterLab
 1. Navigate to course folder
-
 
 Helpful Hints
 ------
