@@ -10,13 +10,14 @@ Required
 
 You need to watch the following sections of [Lesson 02 Overview: Intro to Python Programming](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Lesson02_00) and complete the prework check on Canvas. Check Canvas for the due date and time.
 
-Lesson 02: Intro to Python Programming
-    - Introduction
-    - Variables and Assignment Statements
-    - Arithmetic
-    - Function print and an Intro to Single- and Double-Quoted Strings
-    - Triple-Quoted Strings
-    - Getting Input from the User
+Lesson 02: Intro to Python Programming   
+
+- Introduction   
+- Variables and Assignment Statements  
+- Arithmetic
+- Function print and an Intro to Single- and Double-Quoted Strings
+- Triple-Quoted Strings
+- Getting Input from the User
 
 Optional
 -------
