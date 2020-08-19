@@ -8,9 +8,9 @@ Both items are on [O'Reilly Learning](https://learning.oreilly.com/) . You have 
 Required
 ------
 
-You need to watch the following sections of [Lesson 02 Overview: Intro to Python Programming](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Lesson02_00) and complete the prework check on Canvas. Check Canvas for the due date and time.
+You need to watch the following videos sections and complete the prework check on Canvas. The prework check is open resource, feel to consult the video or any other material to answer the questions. Check Canvas for the due date and time.
 
-Lesson 02: Intro to Python Programming   
+[Lesson 02 Overview: Intro to Python Programming](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Lesson02_00)
 
 - Introduction   
 - Variables and Assignment Statements  

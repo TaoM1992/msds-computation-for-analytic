@@ -30,13 +30,15 @@ __Sections__:
 
 1 - Mondays*  and Wednesday* from  1:00p -  1:50p (PDT)   
 2 - Mondays*  and Wednesday* from  2:00p -  2:50p (PDT)  
-3 -Mondays*  and Wednesday* from  4:00p -  4:50p (PDT)  
+3 - Mondays*  and Wednesday* from  4:00p -  4:50p (PDT)  
 5a - Mondays*  and Wednesday* from  7:00p -  7:50p (PDT)  
-5b -Tuesdays* and Thursdays* from 10:00a - 10:50a (PDT)  
+5b - Tuesdays* and Thursdays* from 10:00a - 10:50a (PDT)  
 
 \* Except first week. Due to orientation, each class will be shifted one day forward (e.g., Monday ⇨ Tuesday)
 
 Anyone enrolled in the MSDS program can audit the course. You do __not__ need my permission or notify me if you want to audit. Just show up! All course materials are in GitHub. Canvas is only for grading thus available only to enrolled students. All the course materials are autograded so you can try the exercises and see where you stand.
+
+Feel free to attend the section that works best for your schedule. Each section will cover the same material.
 
 Prerequisites
 ----
@@ -61,8 +63,8 @@ Course Schedule and Topics (Tentative)
 01. 08/18 Tuesday / Wednesday
     - Welcome 
     - Overview of course
-    - Introduction to Python
 02. 08/20 Thursday / Friday
+    - Introduction to Python
     - Variables
     - Numeric Types
     - Strings
@@ -111,10 +113,9 @@ Topics Not Covered
 -----
 
 - Introduction to programming (the course assumes you already know the very basics of programming)
-- Implementation of fundamental programming data structures (e.g., linked lists)
-- Implementation of fundamental programming algorithms (e.g., sorting)
+- Implementation of fundamental programming data structures (e.g., linked lists) and algorithms (e.g., sorting)
 - Python 2 and R programming language
-- Other libraries in Python's data science stack: SciPy, scikit-learn, Pandas
+- Other libraries in Python's data science stack: NumPy, SciPy, scikit-learn, Pandas
 - Advanced OOP: Multiple inheritance, static methods, property methods
 - Dynamic programming  
 - Data visualization 
@@ -158,8 +159,6 @@ I expect you act professionally at all times: in-person and electronically; duri
 Professionalism points are entirely at the instructor's discretion. 
 
 Violations of Academic Integrity are unprofessional, thus you'll automatically lose all Professionalism points for any violations of Academic Integrity. 
-
-I try to create an active learning environment in my classroom. Attendance is mandatory, you can't participate if you don't attend. It is the responsibility of the student to attend all classes. If you have to miss class, due to sickness, job interviewing, or other circumstances, please notify your instructor by Slack in advance. Supporting documents (e.g., doctor’s notes) may be asked for.
 
 Tardiness negatively impacts an active learning environment, thus will impact your professionalism grade.
 
