@@ -3,7 +3,7 @@ Steps to run software for class
 
 1. Open GitHub Desktop. Click "Fetch origin" to get any changes. You should do this at the start of each working session. You might have do in middle of class also.
 1. Start Anaconda Navigator
-1. Launch JupyterLab
+1. Launch Jupyter Lab or Jupyter Notebok
 1. Navigate to course folder
 
 Helpful Hints
@@ -13,3 +13,8 @@ Helpful Hints
 - GitHub Troubleshooting Tips:
     1. Move any files you want to keep to another directory
     1. Start over
+
+Bonus Cartoon 
+----
+
+<center><img src="https://imgs.xkcd.com/comics/git.png" width="35%"/></center> 

@@ -16,7 +16,7 @@ Logistics
 
 __Instructor:__ Brian Spiering   
 __Contact__: Slack - [@Brian Spiering](https://msan-usf.slack.com/messages/DAMAXHTL5) (more preferred) | Email - [bspiering@usfca.edu](mailto:bspiering@usfca.edu) (less preferred)  
-__Office hours__: Mondays 5-6p (PDT) and Tuesdays 9-10a (PDT). And by appointment.
+__Office hours__: Mondays 5-6p (PDT) and Tuesdays 9-10a (PDT). And by appointment. Zoom link in Slack channel.
 
 __Grader__: Nishat Parveen   
 __Contact__: Slack - [@Nishat](https://msan-usf.slack.com/archives/DMSH3QPHR) | Email - [nparveenmehboobkhan@usfca.edu](mailto:nparveenmehboobkhan@usfca.edu) 
@@ -198,7 +198,7 @@ More detailed information is in the test policies document in the resources fold
 Grading standards
 ----
 
-The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. I consider an "A" grade to be above and beyond what most students achieve. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or <noframes></noframes> work in the course.
+The MSDS program considers a grade of "A" to represent exceptional work with respect to both the instructor's expectations and peer student achievements. I consider an "A" grade to be above and beyond what most students achieve. A grade of "B" represents the expected outcome, what is called "competence" in a business setting. A "C" grade represents achievements lower than the instructor's expectations for competence in the subject. A grade of "F" represents little or no work in the course.
 
 I have the right, but not the obligation, to "curve" the final numerical grades at the end of the course. The mapping from percentages to letter grades (e.g., [95, 100] is an A, [90,95) is an A-, etc.) will not be established until the end of the course. Roughly, the top 15% of students will receive grades of A or A-. Roughly, 60% of students will receive grades of B+, B, or B-. Roughly, 20% of students will receive grades of C+, C, or C-. Students can receive failing grades. I am not required by program to fail a particular percentage of students, but I will fail students if it is appropriate. Students who fail this course __cannot__ continue in the MSDS program. 
 

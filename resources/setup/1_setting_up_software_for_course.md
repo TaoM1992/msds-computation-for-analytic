@@ -1,6 +1,5 @@
 <center><h2>Setting-up Software for course</h2></center>
 <br>
-<center><img src="https://imgs.xkcd.com/comics/success.png" width="70%"/></center>
 
 <center><h2>Learning Outcomes</h2></center>
 
@@ -34,15 +33,15 @@ You'll just download files that I post. Later we'll use it how a professional co
 1. Install [GitHub Desktop](https://desktop.github.com/) if prompted
 1. If you don't how to navigate the file system, put everything on desktop.
 
-<center><h2>Poll</h2></center>
 
-Go to Paricpants section of Zoom:
+<center><h2>FAQs</h2></center>
 
-✅ All three items are woking
-
-❌ Something is __broken__ with one of three items.
-
-◀️ You are waiting for something to download or install.
+- I have Python 3.7 installed. What should I do?
+    + You need to uninstall Python 3.7. Download and install the current version Anaconda which is Python 3.8. All of the faculty are using Python 3.8.
+- I installed Python with homebrew. What should I do?
+    + You need to uninstall Python via homebrew. Install Python only through Anaconda.
+- What about environments (e.g., `conda env` or `virtualenv`)?  
+    + The faculty has decided that environments are unnecessary complex for the first set of courses and the program is not using them. We suggest everyone not use environments, aka everything will be in `base` environment.
 
 <center><h2> Questions?</h2></center>
 
@@ -56,5 +55,6 @@ Extra Notes
 Bonus Cartoon
 ------
 
-<center><img src="https://imgs.xkcd.com/comics/git.png" width="35%"/></center> 
+<center><img src="https://imgs.xkcd.com/comics/success.png" width="35%"/></center>
+
 

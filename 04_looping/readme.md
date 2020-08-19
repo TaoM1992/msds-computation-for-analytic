@@ -5,7 +5,7 @@ Required
 ------
 
 
-Before the start of class, you need to watch the second half of [Lesson 03: Control Statements](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Lesson03_03]. Complete the prework check on Canvas. Check Canvas for the due date and  time.
+Before the start of class, you need to watch the second half of [Lesson 03: Control Statements](https://learning.oreilly.com/videos/python-fundamentals/9780135917411/9780135917411-PFLL_Lesson03_03]. Complete the prework check on Canvas. The prework check is open resource, feel to consult the video or any other material to answer the questions. Check Canvas for the due date and  time.
 
 Lesson 03 Control Statements
 
