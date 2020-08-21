@@ -69,7 +69,7 @@ Course Schedule and Topics (Tentative)
     - Numeric Types
     - Strings
 03. 08/24 Monday / Tuesday
-    - Comparison Operators: ==, !=, is
+    - Comparison Operators: ==, !=
     - Control Statements: if, elif, else
 04. 08/26 Wednesday
     - Looping: for, while
