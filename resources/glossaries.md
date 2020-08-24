@@ -8,3 +8,5 @@ Glossaries of Programming Terms
 [Programming reference for Python](https://www.codecademy.com/articles/glossary-python)
 
 [A very complete Python Glossary](https://www.pythonforbeginners.com/python-glossary)
+
+[GitHub glossary](https://docs.github.com/en/github/getting-started-with-github/github-glossary)

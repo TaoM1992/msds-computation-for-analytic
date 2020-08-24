@@ -15,3 +15,14 @@ You need to watch the following videos sections and complete the prework check o
 - Other List Methods
 - Simulating Stacks with Lists
 - List Comprehensions
+- Filter, Map and Reduce
+- Other Sequence Processing Functions
+
+Optional
+-----
+
+The following are optional but recommended:
+
+- Generator Expressions
+- Two-Dimensional Lists
+- Intro to Data Science: Simulation and Static Visualizations (optional but recommended)

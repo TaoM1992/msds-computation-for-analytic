@@ -18,10 +18,10 @@ Code Review Rubric
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Readability
     - Clear, semantic naming
-    - A single lines only contains a single idea
+    - A single line only contains a single idea
     - No unnecessary variables
-    - Style always follows pep8 conventions
-    - Consistent formatting/indentation
+    - Style always follows [pep8](https://pep8.org/) conventions
+    - Consistent formatting
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 - Documentation
     + All modules have a docstring

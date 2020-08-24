@@ -82,31 +82,30 @@ Course Schedule and Topics (Tentative)
     - Methods
     - Scope rules
     - Recursion
-07. 09/07 Monday / Tuesday
+07. 09/09  Wednesday / Thursday
     - Lists
     - Tuples
     - Slicing
-08. 09/09  Wednesday / Thursday
+08. 09/14 Monday / Tuesday
     - List methods
     - List comprehensions
-09. 09/14 Monday / Tuesday
-    - Generator expressions
     - Filter, map, and reduce
-10. 09/16  Wednesday / Thursday
+09. 09/16  Wednesday / Thursday
     - Dictionaries
     - Sets
-11. 09/21 Monday / Tuesday
+10. 09/21 Monday / Tuesday
     - Strings
     - String formatting
-12. 09/23  Wednesday / Thursday
+11. 09/23  Wednesday / Thursday
     - File handling
-13. 09/28 Monday / Tuesday
+12. 09/28 Monday / Tuesday
+    - Object-oriented programming (OOP)
     - User defined classes
-14. 09/30 Wednesday 
+13. 09/30 Wednesday 
     - Command line
-15. 10/05 Monday / Tuesday
+14. 10/05 Monday / Tuesday
     - git / GitHub
-16. 10/07 Wednesday / Thursday
+15. 10/07 Wednesday / Thursday
     - Amazon Web Services (AWS)
 
 Topics Not Covered
@@ -115,8 +114,8 @@ Topics Not Covered
 - Introduction to programming (the course assumes you already know the very basics of programming)
 - Implementation of fundamental programming data structures (e.g., linked lists) and algorithms (e.g., sorting)
 - Python 2 and R programming language
-- Other libraries in Python's data science stack: NumPy, SciPy, scikit-learn, Pandas
-- Advanced OOP: Multiple inheritance, static methods, property methods
+- Other libraries in Python's data science stack: NumPy, Pandas, SciPy, and scikit-learn
+- Advanced Object-oriented programming (OOP): Multiple inheritance, static methods, property methods
 - Dynamic programming  
 - Data visualization 
 - Concurrency, threading, `async` module
@@ -129,7 +128,7 @@ Grading
 | Item           | Weight   | Due Date & Time                  |
 |:---------------|:--------:|:---------------------------------|
 | Professionalism| 14%      | All the time                     |
-| Prework Check  | 15%      | Before each class                |
+| Prework Check  | 15%      | 1p PDT each day of class (aka, start of first section)         |
 | Setup          |  1%      | 08/21 Friday 5p PDT              |
 | Homework 1     | 10%      | 08/26 Wednesday 1p PDT           |
 | Homework 2     | 10%      | 09/02 Wednesday 1p PDT           |
@@ -145,6 +144,8 @@ Each item's contribution is capped its respective percentage. The total course p
 Currently, there is no extra credit. If there is any extra credit, it is entirely at the discretion of the instructor.
 
 We'll be using Canvas as the learning management system (LMS), aka the gradebook. The instructional team will do their best to have Canvas accurately reflect your current scores in the course. However, Canvas may not be completely accurate all the time. In other words, your actual grade maybe significant different than it appears on Canvas. 
+
+Note - [Canvas may localize your timezone that could appear confusing](https://clt.champlain.edu/knowledgebase/canvas-time-zone-faqs-online-students/). The dues dates and times list appear are what matter.
 
 ### Professionalism
 

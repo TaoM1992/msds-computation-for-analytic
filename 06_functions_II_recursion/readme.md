@@ -19,4 +19,4 @@ __NOTE__: The videos do not cover recursion.
 
 Read the book section on recursion [here](https://learning.oreilly.com/library/view/python-for-programmers/9780135231364/ch04.xhtml#ch04lev1sec16)
 
-Another video intro to recursion is [here](https://www.youtube.com/watch?v=wMNrSM5RFMc)
+The __required__ video intro to recursion is [here](https://www.youtube.com/watch?v=wMNrSM5RFMc)
