@@ -1,4 +1,4 @@
-Comment Style Guidelines
+Comment style guidelines
 =======
 
 __In this course, every line of code you write should have a comment.__
