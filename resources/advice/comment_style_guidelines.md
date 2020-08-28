@@ -9,15 +9,27 @@ Syntax Guidelines
 - There will always be a space after the `#`.  
 - It is preferred if the first word is title cased. All lower case is acceptable. 
 - Period is optional.
+- If commenting several related lines, align the comments away from the code so the code and comments can be read more easily.
 
 Examples
 -------
 
 ```python
-today = "Tuesday" # The current day of the week
-
 # The meaning of everything.
 x = 42 
+
+today = "Tuesday" # The current day of the week
+
+def my_mean(nums: Sequence[float]) -> float:
+    "Calculate the arithmetic mean, similar to built-in sum"
+    total, count = 0, 0   # Initialize values
+    
+    for n in nums:        # Step through each input value
+        total += n        # Use accumulator pattern to update running total
+        count += 1        # Use accumulator pattern to update counter
+    
+    return total / count  # Arithmetic mean is sum of values over number of values
+
 ```
 
 What should be in a comment?
