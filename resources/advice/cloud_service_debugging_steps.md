@@ -6,3 +6,4 @@ Cloud-service Debugging Steps
 - Clear broswer cache. Try again.
 - Log out of service. Log back in. Try again.
 - Restart your computer. Try again.
+- Make back-up copy on your local device. Delete on cloud service. Create a new version. 
