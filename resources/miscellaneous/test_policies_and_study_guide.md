@@ -21,7 +21,7 @@ Computational Course Test Guidelines & Policies
 
 - You will have one chance to answer each question. You'll not be able to go back to change an answer.  
 
-- TODO: 2 slots. no communcation
+- Since there are two different quiz time slots, you are not allowed to discuss the quiz in anyway with any one other than Brian. Do not even discuss it among people that take it first. This includes "it was easy/hard/awful/unfair" comments. Absolutely no communication until the following day.
 
 Please reach out to the instructor about any questions or clarifications.
 
