@@ -2,6 +2,7 @@ Code Review Rubric
 ------
 
 - Effectiveness
+    - Code implements both the letter and the spirit of the specification
     - Runs without errors
     - Passes all tests
     - Passes all tests within timelimits
