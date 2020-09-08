@@ -3,9 +3,13 @@ Computational Course Test Guidelines & Policies
 
 - The tests could be on any material up to now. Since programming is cumulative, all tests are cumulative. Any material marked as optional or bonus will not be tested.  
 
-- Tests are closed resources - all other people, internet, books, and notes. Looking at any other computer (including your phone) cheating. You'll receive an automatic zero on the test. Other penalties for academic integrity violations are also possible.
+- Tests are closed resources - all other people, internet, books, and notes. Looking at any other computer (including your phone) cheating. Do not talk to anyone during the test, either in person or electronically. You'll receive an automatic zero on the test. Other penalties for academic integrity violations are also possible.
 
-- Your computer must in good working order. You must notify the instructor electronically before the start of the test if your computer is not working. If you fail to do that or if your computer stops working during the test, it is up the instructor's discretion to accommodate you. It is best practices to turn-off any updates and notifications during test.
+- You can not wear headphones during the exam.  
+
+- You should have an external clock to help manage your time. You can not look at your phone during the test, thus your phone can not be an external clock.
+
+- Your computer and internet connection must in good working order. You must notify the instructor electronically before the start of the test if something is not working. If you fail to do that or if something stops working during the test, it is up the instructor's discretion to accommodate you. It is best practices to turn-off any updates and notifications during test.
 
 - Tests require Respondus LockDown Browser to be installed on your personal computer.
     +  Please work through the quick start guide [here](http://www.respondus.com/downloads/RLDB-QuickStartGuide-Instructure-Student.pdf).
@@ -19,9 +23,11 @@ Computational Course Test Guidelines & Policies
 
 - You can __not__ have scratch paper. You can not write thing down during the test.
 
-- You will have one chance to answer each question. You'll not be able to go back to change an answer.  
+- Given that you don't get scratch paper, I have made the arithmetic minimal. However fair warning, you might be asked to perform arithmetic with the following operators {+, -, /, //, *, **, %} and the following digits {1, 2, 3} in your head. 
 
-- Since there are two different quiz time slots, you are not allowed to discuss the quiz in anyway with any one other than Brian. Do not even discuss it among people that take it first. This includes "it was easy/hard/awful/unfair" comments. Absolutely no communication until the following day.
+- You will only a single chance to answer each question. You'll not be able to go back to change an answer.  
+
+- Since there are two different quiz time slots, you are not allowed to discuss the quiz in anyway with any person other than Brian. Do not even discuss it among people that take it first. This prohibition on discussion includes, "It was easy/hard/awful/unfair" comments. Absolutely no communication until the following day.
 
 Please reach out to the instructor about any questions or clarifications.
 
@@ -42,13 +48,13 @@ More effective ways of studying
 ------
 
 1. Make and use flashcards for concepts and coding problems.
-1. Take a coding problem from class or the labs solve it completely on your own by writing the code from scratch. 
+1. Take a coding problem from class or the assignments solve it completely on your own by writing the code from scratch. 
     - That means to not looking at any solutions or the Internet.
     - Including fixing all errors and bugs.
-    - Only after struggling and hopelessly stuck, seek advice.
+    - Only after struggling and getting hopelessly stuck, seek advice.
     - Double check your solution is correct. Then refactor to be elegant.
 1. Given a piece of code:
-    1. Mental walk through it. Understand the control flow and state of all variables. Predict the outcome.
+    1. Mental walk through it. Understand the control flow and state of all variables. Predict the values at all times and the final outcome. Watch out for errors.
     2. Double check your intuition with Python Tutor.
     3. Start with your own code. 
     4. Then do the same process with my code. I have lots of code laying around if you want more examples.
