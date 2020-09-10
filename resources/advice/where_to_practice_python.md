@@ -7,3 +7,4 @@ Places to practice Python
     - https://repl.it/community/classrooms/20693
     - https://repl.it/community/classrooms/17929
 1. [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education) 
+1. [Ultimate Python study guide](https://github.com/huangsam/ultimate-python)

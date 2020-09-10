@@ -5,7 +5,7 @@ Code Review Rubric
     - Code implements both the letter and the spirit of the specification
     - Runs without errors
     - Passes all tests
-    - Passes all tests within timelimits
+    - Passes all tests within time limits
     - Handles all typical cases
     - Handles common edge cases
     - Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_

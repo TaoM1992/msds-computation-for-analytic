@@ -13,7 +13,7 @@ Computational Course Test Guidelines & Policies
 
 - Tests require Respondus LockDown Browser to be installed on your personal computer.
     +  Please work through the quick start guide [here](http://www.respondus.com/downloads/RLDB-QuickStartGuide-Instructure-Student.pdf).
-    - Please install it before hand. Familiarize yourself with it. A sample test will be on Canvas. All tests start promptly. Failure to install the required software could result in a zero for the test.
+    - Please install it before hand [here](https://download.respondus.com/lockdown/download.php?id=953641626). Familiarize yourself with it. A sample test will be on Canvas. All tests start promptly. Failure to install the required software could result in a zero for the test.
     - It only works with [Windows and Mac](https://www.respondus.com/products/lockdown-browser/requirements.shtml). 
     - Please take the sample test on Canvas to make sure it works and you understand the constraints of LockDown Browser.
 
