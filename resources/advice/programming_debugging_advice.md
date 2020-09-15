@@ -1,4 +1,5 @@
-### What to do when your code doesn't work
+What to do when your code doesn't work
+======
 
 If you have problems, follow these steps:
 
@@ -27,9 +28,9 @@ If you have problems, follow these steps:
 
 1. If it does not look like it some simple misspelling, you might get lucky and find something in Google if you cut-and-paste that error message.
 
-1. If your code is at least running and doing something, then insert print statements to figure out what the variables are and how far into the program you get before a craps out. That often tells you what the problem is.
+1. If your code is at least running and doing something, then insert print statements to figure out what the variables are and how far into the program you get before a craps out. That often tells you what the problem is. Something like `print(f"Expected {foo}. But got {bar}.")`
 
-1. Definitely try to solve the problem yourself, but don't waste too much time (~15 minutes should be the max). I can typically help you out quickly so you can move forward.
+1. Definitely try to solve the problem yourself, but don't waste too much time (~15 minutes at the upper end). I can typically help you out quickly so you can move forward.
 
 [Source](https://github.com/parrt/msds501/blob/master/projects/images.pdf)
 

@@ -21,7 +21,7 @@ You need to watch the following videos sections and complete the prework check o
 Optional
 -----
 
-The following are optional but recommended:
+The following are optional (but recommended):
 
 - Generator Expressions
 - Two-Dimensional Lists
