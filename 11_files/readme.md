@@ -14,8 +14,7 @@ You need to watch the following videos sections and complete the prework check o
 - Text-File Processing
 - Updating Text Files
 - Serialization with JSON
-- Focus on Security: pickle Serialization and Deserialization
-- Additional Notes Regarding Files
+- File Open Modes  
 
 Optional
 ------
