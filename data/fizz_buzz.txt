@@ -28,7 +28,7 @@ fizz
 28
 29
 fizzbuzz
-31 
+31
 32
 fizz
 34
