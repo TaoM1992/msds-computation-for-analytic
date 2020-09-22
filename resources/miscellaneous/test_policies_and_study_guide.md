@@ -25,8 +25,6 @@ Computational Course Test Guidelines & Policies
 
 - Given that you don't get scratch paper, I have made the arithmetic minimal. However fair warning, you might be asked to perform arithmetic with the following operators {+, -, /, //, *, **, %} and the following digits {1, 2, 3} in your head. 
 
-- You will only a single chance to answer each question. You'll not be able to go back to change an answer.  
-
 - Since there are two different quiz time slots, you are not allowed to discuss the quiz in anyway with any person other than Brian. Do not even discuss it among people that take it first. This prohibition on discussion includes, "It was easy/hard/awful/unfair" comments. Absolutely no communication until the following day.
 
 Please reach out to the instructor about any questions or clarifications.
