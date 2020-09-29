@@ -57,6 +57,7 @@ More effective ways of studying
     3. Start with your own code. 
     4. Then do the same process with my code. I have lots of code laying around if you want more examples.
     5. Finally, do the same process with other high quality code. An example is [here](https://github.com/norvig/pytudes/blob/master/ipynb/Advent%202017.ipynb)
+1. [Red Team](https://en.wikipedia.org/wiki/Red_team) - Divide a study group into two teams. Each team makes practice quiz questions for the other team.
 1. Take a concept from class and create a [mind-map](https://www.mindmapping.com/) / [concept-map](https://carpentries.github.io/instructor-training/05-memory/index.html).
     - There is a related idea called the [Feynman Technique](https://fs.blog/2012/04/feynman-technique/).
     - Double check your mind-map. Correct errors in your understanding.

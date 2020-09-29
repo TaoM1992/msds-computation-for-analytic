@@ -69,15 +69,14 @@ Course Schedule and Topics (Tentative)
     - Numeric Types
     - Strings
 03. 08/24 Monday / Tuesday
-    - Comparison Operators: ==, !=
+    - Comparison Operators: <, >, ==, !=
     - Control Statements: if, elif, else
 04. 08/26 Wednesday
     - Looping: for, while
     - Booleans: and, or, not
 05. 08/31 Monday / Tuesday
     - User defined functions
-    - Standard Library
-    - Keyword arguments
+    - Arguments: positional, keyword, default, unpacking
 06. 09/02 Wednesday / Thursday
     - Methods
     - Scope rules
@@ -135,7 +134,7 @@ Grading
 | Test 1         | 10%      | 09/09 Wednesday 8-9a or 8-9p PDT |
 | Homework 3     | 10%      | 09/16 Wednesday 1p PDT           |
 | Test 2         | 10%      | 09/23 Wednesday 8-9a or 8-9p PDT |
-| Homework 4     | 10%      | 09/30 Wednesday 1p PDT           |
+| Homework 4     | 10%      | 10/03 Friday 6p PDT              |
 | Test 3         | 10%      | 10/07 Wednesday 8-9a or 8-9p PDT |
 | __Total__      | __100%__ |
 
