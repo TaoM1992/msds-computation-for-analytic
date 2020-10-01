@@ -6,7 +6,7 @@ Required
 
 - Before class install [iTerm2](https://www.iterm2.com/)
 
-- [Mac Terminal commands to memorize](https://gist.github.com/poopsplat/7195274)
+- You should memorize all of these commands except the keyboard shortcuts - [Common Mac Terminal commands](https://gist.github.com/poopsplat/7195274) 
 
 We are switching to different set of videos for the command line:
 
