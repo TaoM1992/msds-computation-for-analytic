@@ -4,7 +4,7 @@ Prework
 Required
 ------
 
-We are switching to different set of videos for git / GitHub.
+We are switching to a different set of videos for git / GitHub.
 
 You need to watch the following videos sections and complete the prework check on Canvas. The prework check is open resource, feel to consult the video or any other material to answer the questions. Check Canvas for the due date and time.
 
